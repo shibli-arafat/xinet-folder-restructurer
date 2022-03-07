@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Analytics" Version="3.8.0" />
+    <PackageReference Include="cef.redist.x64" Version="93.1.11" />
+    <PackageReference Include="CefSharp.Common" Version="93.1.111" />
+    <PackageReference Include="CefSharp.WinForms" Version="93.1.111" />
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
+    <PackageReference Include="SharpAvi" Version="2.1.2" />
+    <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
+  </ItemGroup>
+
+</Project>
